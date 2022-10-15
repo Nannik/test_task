@@ -138,6 +138,8 @@ class Canvas {
             this._ctx.fillStyle = "#f00";
             this._ctx.lineWidth = 1;
         }
+
+        this.render(0);
     }
 
     get isAnimate(): boolean {

@@ -14,7 +14,7 @@ const CanvasComponent: FC<CanvasProps> = ({ canvas }) => {
     // handle context change
     useEffect(() => {
         canvas.ctx = ctx;
-    }, [ctx]);
+    }, [ctx, canvasWidth]);
 
     // handle window resize
     useEffect(() => {
