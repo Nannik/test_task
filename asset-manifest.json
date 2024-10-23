@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/grandysoft_test_task/static/css/main.586f7bd0.css",
-    "main.js": "/grandysoft_test_task/static/js/main.c93ad92a.js",
-    "index.html": "/grandysoft_test_task/index.html",
-    "main.586f7bd0.css.map": "/grandysoft_test_task/static/css/main.586f7bd0.css.map",
-    "main.c93ad92a.js.map": "/grandysoft_test_task/static/js/main.c93ad92a.js.map"
+    "main.css": "/static/css/main.586f7bd0.css",
+    "main.js": "/static/js/main.c93ad92a.js",
+    "index.html": "/index.html",
+    "main.586f7bd0.css.map": "/static/css/main.586f7bd0.css.map",
+    "main.c93ad92a.js.map": "/static/js/main.c93ad92a.js.map"
   },
   "entrypoints": [
     "static/css/main.586f7bd0.css",
